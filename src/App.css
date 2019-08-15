@@ -1,0 +1,29 @@
+body {
+  background-color: #eeeeee;
+  text-align: center;
+
+}
+
+.trello-list {
+  background-color: #ddd
+}
+
+.new-task-button {
+  display: inline;
+}
+
+a:hover > .container > div{
+  background-color: #9a9a9a;
+}
+
+.button-spacing { 
+  display: inline;
+  margin: 0 10px;
+}
+
+.card-status-buttons button {
+  display: inline;
+  font-size: 10px;
+  padding: 0 10px;
+  margin: 0 10px 10px 0;
+}
